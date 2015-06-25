@@ -14,12 +14,7 @@ target/
 .worksheet/
 *.sc
 
-# IntelliJ
-.idea/
-out/
-*.iml
-*.ipr
-*.iws
+
 
 # ENSIME
 .ensime
