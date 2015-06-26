@@ -1,1 +1,5 @@
 Scala99Solutions.isPalindrome(List(1,2,2,2,2,1))
+List(1,2,3).flatMap(value => List(value, value + 1))
+Scala99Solutions.compress(List('a, 'a, 'a, 'a, 'b, 'c, 'c, 'a, 'a, 'd, 'e, 'e, 'e, 'e))
+Scala99Solutions.compressFunctional(List('a, 'a, 'a, 'a, 'b, 'c, 'c, 'a, 'a, 'd, 'e, 'e, 'e, 'e))
+Scala99Solutions.pack(List('a, 'a, 'a, 'a, 'b, 'c, 'c, 'a, 'a, 'd, 'e, 'e, 'e, 'e))
